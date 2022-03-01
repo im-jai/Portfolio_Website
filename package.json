@@ -21,11 +21,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-<<<<<<< Updated upstream
     "predeploy": "npm run build",
-=======
-    "predeploy": "CI = npm run build",
->>>>>>> Stashed changes
     "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
