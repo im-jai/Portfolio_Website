@@ -31,7 +31,7 @@ const About = () => {
             <article className="about__card">
               <VscFolderLibrary className="about__icon"></VscFolderLibrary>
               <h5>Projects</h5>
-              <small>5+ Completed</small>
+              <small>3+ Completed</small>
             </article>
           </div>
           <p>
