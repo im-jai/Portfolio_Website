@@ -38,14 +38,6 @@ const Contact = () => {
             </a>
           </article>
           <article className="contact__option">
-            <FaFacebookMessenger className="contact_option-icon"></FaFacebookMessenger>
-            <h4>Messenger</h4>
-            <h5>ジャイ</h5>
-            <a href="https://m.me/fb_id" target="_blank" rel="noreferrer">
-              Send a Messege
-            </a>
-          </article>
-          <article className="contact__option">
             <ImWhatsapp className="contact_option-icon"></ImWhatsapp>
             <h4>WhatsApp</h4>
             <h5>+91 9976314995</h5>
@@ -54,6 +46,14 @@ const Contact = () => {
               target="_blank"
               rel="noreferrer"
             >
+              Send a Messege
+            </a>
+          </article>
+          <article className="contact__option">
+            <FaFacebookMessenger className="contact_option-icon"></FaFacebookMessenger>
+            <h4>Messenger</h4>
+            <h5>ジャイ</h5>
+            <a href="https://m.me/fb_id" target="_blank" rel="noreferrer">
               Send a Messege
             </a>
           </article>

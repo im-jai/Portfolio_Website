@@ -26,17 +26,17 @@ const About = () => {
             <article className="about__card">
               <FiUsers className="about__icon"></FiUsers>
               <h5>Clients</h5>
-              <small>2+ Worldwide</small>
+              <small>2+</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon"></VscFolderLibrary>
               <h5>Projects</h5>
-              <small>3+ Completed</small>
+              <small>3+</small>
             </article>
           </div>
           <p>
             Hi, I'm Jai who have 1.3 years of experience in Frontend Development
-            i have a basic understanding of the Web Application. And also having
+            have a basic understanding of the Web Application. And also having
             hands on experience in Mobile App Development. Passionate about
             working as a developer and also keep on creating new things.
           </p>
