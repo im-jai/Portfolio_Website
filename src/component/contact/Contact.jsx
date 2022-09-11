@@ -28,7 +28,7 @@ const Contact = () => {
           <article className="contact__option">
             <HiOutlineMail className="contact_option-icon"></HiOutlineMail>
             <h4>Email</h4>
-            <h5>Jayaveerapandiyan.d@gmail.com</h5>
+            <h5>abc@gmail.com</h5>
             <a
               href="mailto:Markanthony@gmail.com"
               target="_blank"
@@ -40,7 +40,7 @@ const Contact = () => {
           <article className="contact__option">
             <ImWhatsapp className="contact_option-icon"></ImWhatsapp>
             <h4>WhatsApp</h4>
-            <h5>+91 9976314995</h5>
+            <h5>+91 **********</h5>
             <a
               href="https://api.whatsapp.com/send?phone=+919898987678"
               target="_blank"
