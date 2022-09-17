@@ -88,6 +88,10 @@
   .about__content p {
     margin: 1rem 0 1.5rem;
   }
+  #img-about {
+    height: 15rem;
+    width: 15rem;
+  }
 }
 
 /* ================================Media Query(SMALL DEVICES)============================= */
