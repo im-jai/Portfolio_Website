@@ -35,8 +35,8 @@ const About = () => {
             </article>
           </div>
           <p>
-            Hi, I'm Jay who having 1.3 years of experience in Frontend
-            Development have a basic understanding of the Web Application. And
+            Hi, I'm Jay who having 3+ years of experience in Frontend
+            Development have a in-depth understanding of the Web Application. And
             also having hands on experience in Mobile App Development.
             Passionate about working as a developer and also keep on creating
             new things.
