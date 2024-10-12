@@ -43,10 +43,10 @@ header {
 /*=========================== Me Picture ========================== */
 
 #me-head {
-  width: 22rem;
-  height: 30rem;
+  width: 21rem;
+  height: 21rem;
   position: absolute;
-  left: calc(50% - 11rem);
+  left: calc(50% - 10rem);
   margin-top: 0.4rem;
   border-radius: 13rem 13rem 0 0;
   overflow: hidden;

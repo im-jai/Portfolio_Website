@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import ME from "../../assets/images/me4.jpeg";
+import ME from "../../assets/images/me2.jpg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
@@ -21,7 +21,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon"></FaAward>
               <h5>Experience</h5>
-              <small>1+ Years Working</small>
+              <small>3+ Years</small>
             </article>
             <article className="about__card">
               <FiUsers className="about__icon"></FiUsers>
@@ -36,8 +36,8 @@ const About = () => {
           </div>
           <p>
             Hi, I'm Jay who having 3+ years of experience in Frontend
-            Development have a in-depth understanding of the Web Application. And
-            also having hands on experience in Mobile App Development.
+            Development have a in-depth understanding of the Web Application and
+            also having hands on experience in cloud technology.
             Passionate about working as a developer and also keep on creating
             new things.
           </p>

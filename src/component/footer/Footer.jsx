@@ -7,12 +7,12 @@ import { BsTwitter } from "react-icons/bs";
 const Footer = () => {
   return (
     <footer id="footer">
-      <a href="#" className="footer__logo">
+      <a href="#home" className="footer__logo">
         Thank You
       </a>
       <ul className="permalinks">
         <li>
-          <a href="#">Home</a>
+          <a href="#home">Home</a>
         </li>
         <li>
           <a href="#about">About</a>

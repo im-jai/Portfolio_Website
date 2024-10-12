@@ -9,7 +9,7 @@ const Experience = () => {
       <h2>Experience</h2>
       <div className="container experience__container">
         <div className="experience__frontend">
-          <h3>Frontend Development</h3>
+          <h3>Technical Skills</h3>
           <div className="experience__content">
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon"></BsFillPatchCheckFill>
@@ -45,52 +45,49 @@ const Experience = () => {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon"></BsFillPatchCheckFill>
               <div>
-                <h4>React</h4>
-                <small>Beginner</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon"></BsFillPatchCheckFill>
-              <div>
-                {" "}
-                <h4>Flutter</h4>
-                <small>Beginner</small>
+                <h4>ReactJS</h4>
+                <small>1+ Years Experience</small>
               </div>
             </article>
           </div>
         </div>
         <div className="experience__backend">
-          <h3>Backend Development</h3>
+          <h3>Skills & Certifications</h3>
           <div className="experience__content">
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon"></BsFillPatchCheckFill>
               <div>
                 {" "}
-                <h4>Java</h4>
-                <small>Beginner</small>
+                <h4>Client Communication</h4>
+            <small>(Japanese & English)</small>
               </div>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon"></BsFillPatchCheckFill>
               <div>
                 {" "}
-                <h4>MySql</h4>
+                <h4>Project Management</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon"></BsFillPatchCheckFill>
+              <div>
+                {" "}
+                <h4>Team Leadership</h4>
+                
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon"></BsFillPatchCheckFill>
+              <div>
+                <h4>AWS</h4>
+              </div>
+            </article>
+                <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon"></BsFillPatchCheckFill>
+              <div>
+                <h4>JLPT N3</h4>
                 <small>Intermediate</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon"></BsFillPatchCheckFill>
-              <div>
-                {" "}
-                <h4>Postman</h4>
-                <small>Beginner</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon"></BsFillPatchCheckFill>
-              <div>
-                <h4>Spring Boot</h4>
-                <small>Beginner</small>
               </div>
             </article>
           </div>
